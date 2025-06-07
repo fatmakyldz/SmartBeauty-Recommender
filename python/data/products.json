@@ -1,0 +1,1593 @@
+[
+    {
+        "id": 1,
+        "name": "Rénergie Triple Serum",
+        "brand": "Lancôme",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Anti-aging serum that targets firmness, wrinkles, and radiance. Apply morning and night.",
+        "volume": "50ml",
+        "price": 7.9,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/renergie-triple-serum-P10023689.html"
+    },
+    {
+        "id": 2,
+        "name": "Niacinamide 10% + Zinc 1% Serum",
+        "brand": "The Ordinary",
+        "category": "Serum",
+        "skin_type": [
+            "oily",
+            "combination",
+            "blemish-prone"
+        ],
+        "usage": "Oil-control and blemish-reducing serum. Use in the morning and evening before moisturizer.",
+        "volume": "30ml",
+        "price": 295,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/niasinamid-%2510-cinko-%251---kusursuzluk-giderici-serum-P3921091.html"
+    },
+    {
+        "id": 3,
+        "name": "Avocado Ceramide Redness Relief Serum",
+        "brand": "Glow Recipe",
+        "category": "Serum",
+        "skin_type": [
+            "sensitive",
+            "dry",
+            "normal"
+        ],
+        "usage": "Soothing serum formulated with ceramides and avocado to strengthen the skin barrier and reduce redness.",
+        "volume": "30ml",
+        "price": 3.029,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/avocado-ceramide---cilt-bariyerini-guclendirici-serum-548189.html"
+    },
+    {
+        "id": 4,
+        "name": "Advanced Night Repair Serum",
+        "brand": "Estée Lauder",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Comprehensive anti-aging serum that reduces multiple signs of aging. Apply on clean skin before moisturizer in the evening.",
+        "volume": "30ml",
+        "price": 3.85,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/estee-lauder-advanced-night-repair-serum-P10010128.html"
+    },
+    {
+        "id": 5,
+        "name": "Double Serum Gen 9",
+        "brand": "Clarins",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "combination",
+            "aging"
+        ],
+        "usage": "Complete age control concentrate that targets signs of aging. Apply morning and/or evening before your regular skincare.",
+        "volume": "50ml",
+        "price": 5.385,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/double-serum-gen-9---yaslanma-karsiti-etkili-konsantre-serum-P10060101.html"
+    },
+    {
+        "id": 6,
+        "name": "Watermelon Glow Niacinamide Dew Drops",
+        "brand": "Glow Recipe",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "combination",
+            "dull"
+        ],
+        "usage": "Brightening serum with niacinamide and watermelon extract for a dewy glow. Apply as the last step of skincare routine or as a primer before makeup.",
+        "volume": "40ml",
+        "price": 1.339,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/watermelon-glow---niasinamidli-pembe-damla-serum-P10018696.html"
+    },
+    {
+        "id": 7,
+        "name": "Retinol 1% in Squalane",
+        "brand": "The Inkey List",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "combination",
+            "aging"
+        ],
+        "usage": "High-strength retinol serum for reducing signs of aging. Apply a small amount in the evening after water-based serums before heavier treatments.",
+        "volume": "30ml",
+        "price": 899,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/retinol-460017.html"
+    },
+    {
+        "id": 8,
+        "name": "Glow Deep Serum: Rice + Alpha Arbutin",
+        "brand": "Beauty of Joseon",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "dry",
+            "dull"
+        ],
+        "usage": "Brightening serum with rice extract and alpha arbutin to even out skin tone. Apply 2–3 drops to the skin and pat gently to aid absorption.",
+        "volume": "30ml",
+        "price": 989,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/glow-deep-serum--rice-alpha-arbutin---isiltili-ve-esit-cilt-tonu-761491.html"
+    },
+    {
+        "id": 9,
+        "name": "Ultimune Power Infusing Concentrate",
+        "brand": "Shiseido",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "combination",
+            "aging"
+        ],
+        "usage": "Strengthening serum that enhances skin's defense against aging and daily damage. Apply morning and evening after cleansing and before moisturizing.",
+        "volume": "50ml",
+        "price": 8.3,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/ultimune-power-infusing-concentrate-serum-cildin-savunmasini-güçlendiren%C2%A0seru-P1000206641.html"
+    },
+    {
+        "id": 10,
+        "name": "Glow Serum: Propolis + Niacinamide",
+        "brand": "Beauty of Joseon",
+        "category": "Serum",
+        "skin_type": [
+            "sensitive",
+            "oily",
+            "combination"
+        ],
+        "usage": "Soothing and pore-tightening serum with propolis and niacinamide. Apply 2–3 drops to the skin and pat gently to aid absorption.",
+        "volume": "30ml",
+        "price": 989,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/glow-serum--propolis-niasinamid---yatistirici-ve-gozenek-sikilastirici-761492.html"
+    },
+    {
+        "id": 11,
+        "name": "Bouncy & Firm Serum",
+        "brand": "Sephora Collection",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "aging"
+        ],
+        "usage": "Firming serum that enhances skin elasticity and bounce. Apply morning and evening before moisturizer.",
+        "volume": "30ml",
+        "price": 2.779,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/bouncy-et-firm-serum---dolgunlastirici-ve-sikilastirici-serum-757139.html"
+    },
+    {
+        "id": 12,
+        "name": "Pomegranate Peptide Firming Serum",
+        "brand": "Sephora Collection",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "aging",
+            "dry"
+        ],
+        "usage": "Firming serum with pomegranate extract and peptides to improve skin elasticity. Apply morning and evening before moisturizer.",
+        "volume": "30ml",
+        "price": 3.029,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/pomegranate-peptide---sikilastirici-serum-654156.html"
+    },
+    {
+        "id": 13,
+        "name": "C-Firma™ Fresh Day Serum",
+        "brand": "Drunk Elephant",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "dull",
+            "combination"
+        ],
+        "usage": "Vitamin C serum that brightens and firms the skin. Mix before first use and apply in the morning to clean, dry face.",
+        "volume": "28ml",
+        "price": 5.589,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/c-firma™-fresh-day---serum-559053.html"
+    },
+    {
+        "id": 14,
+        "name": "Magic Serum Crystal Elixir",
+        "brand": "Charlotte Tilbury",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Hydrating and glow-boosting serum with vitamin C and polyglutamic acid. Apply morning and evening before moisturizer.",
+        "volume": "30ml",
+        "price": 4.229,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/magic-serum-crystal-elixir---yuz-bakim-serumu-P4077089.html"
+    },
+    {
+        "id": 15,
+        "name": "Brightening Serum",
+        "brand": "Sephora Collection",
+        "category": "Serum",
+        "skin_type": [
+            "dull",
+            "normal",
+            "dry"
+        ],
+        "usage": "Radiance-boosting serum that evens out skin tone and brightens the complexion. Apply morning and/or evening before moisturizer.",
+        "volume": "30ml",
+        "price": 1.139,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/brightening-serum---aydinlatici-serum-633709.html"
+    },
+    {
+        "id": 16,
+        "name": "Firming & Plumping Serum",
+        "brand": "Sephora Collection",
+        "category": "Serum",
+        "skin_type": [
+            "aging",
+            "dry",
+            "normal"
+        ],
+        "usage": "Plumping and firming serum that smooths fine lines and adds volume. Use morning and night before moisturizer.",
+        "volume": "30ml",
+        "price": 1.119,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/dolgunlastirici-guclendirici-serum---dolgunlastirir-puruzsuzlestirir-728463.html"
+    },
+    {
+        "id": 17,
+        "name": "B-Hydra Intensive Hydration Serum",
+        "brand": "Drunk Elephant",
+        "category": "Serum",
+        "skin_type": [
+            "dry",
+            "dehydrated",
+            "normal"
+        ],
+        "usage": "Intensely hydrating serum with provitamin B5 and pineapple ceramide. Apply daily to improve skin texture and radiance.",
+        "volume": "50ml",
+        "price": 3.529,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/b-hydra-intensive-hydration-serum-453770.html"
+    },
+    {
+        "id": 18,
+        "name": "Strawberry Smooth BHA + AHA Serum",
+        "brand": "Glow Recipe",
+        "category": "Serum",
+        "skin_type": [
+            "oily",
+            "blemish-prone",
+            "combination"
+        ],
+        "usage": "Exfoliating and smoothing serum with salicylic and mandelic acid. Use at night 2–3 times a week after cleansing.",
+        "volume": "30ml",
+        "price": 2.829,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/strawberry-smooth---salisilik-asit--aha-ve-bha-i̇ceren-arindirici-serum-617800.html"
+    },
+    {
+        "id": 19,
+        "name": "Calming Serum: Green Tea + Panthenol",
+        "brand": "Beauty of Joseon",
+        "category": "Serum",
+        "skin_type": [
+            "sensitive",
+            "normal",
+            "combination"
+        ],
+        "usage": "Soothing and hydrating serum with green tea extract and panthenol. Great for calming irritated skin.",
+        "volume": "30ml",
+        "price": 989,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/calming-serum--green-tea-panthenol---gelistirilmis-yatistirma-ve-nemlendirme-761494.html"
+    },
+    {
+        "id": 20,
+        "name": "Protini Powerpeptide Serum",
+        "brand": "Drunk Elephant",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "aging",
+            "dull"
+        ],
+        "usage": "Powerful peptide-based serum that improves skin tone, texture, and firmness. Apply daily for smoother, brighter skin.",
+        "volume": "30ml",
+        "price": 6.019,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/protini-powerpeptide-serum-541505.html"
+    },
+    {
+        "id": 21,
+        "name": "Plum Plump™ Hyaluronic Moisturizer",
+        "brand": "Glow Recipe",
+        "category": "Moisturizer",
+        "skin_type": [
+            "dry",
+            "normal",
+            "combination"
+        ],
+        "usage": "Apply to clean face and neck morning and night for plump, hydrated skin.",
+        "volume": "50ml",
+        "price": 2.689,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/plum-plump™-hyaluronic---nemlendirici-jel-krem-P10024312.html"
+    },
+    {
+        "id": 22,
+        "name": "Rénergie H.P.N. 300-Peptide Anti-Aging Cream",
+        "brand": "Lancôme",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Apply to face and neck morning and evening to reduce signs of aging and improve skin firmness.",
+        "volume": "50ml",
+        "price": 6.85,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/renergie-h.p.n.-300-peptide---yaslanma-karsiti-krem-P10048945.html"
+    },
+    {
+        "id": 23,
+        "name": "Natural Moisturizing Factors + Beta Glucan",
+        "brand": "The Ordinary",
+        "category": "Moisturizer",
+        "skin_type": [
+            "sensitive",
+            "dry",
+            "normal"
+        ],
+        "usage": "Apply a small amount to face after serums as needed for hydration.",
+        "volume": "30ml",
+        "price": 275,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/dogal-nemlendirici-faktorler-beta-glukan---nemlendirici-jel-P10050003.html"
+    },
+    {
+        "id": 24,
+        "name": "Moisturizing Gel Cream",
+        "brand": "BYOMA",
+        "category": "Moisturizer",
+        "skin_type": [
+            "oily",
+            "combination",
+            "normal"
+        ],
+        "usage": "Apply to clean skin morning and night for lightweight hydration.",
+        "volume": "50ml",
+        "price": 1.089,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/moisturizing-gel-cream---nemlendirici-krem-P10043556.html"
+    },
+    {
+        "id": 25,
+        "name": "Protini™ Polypeptide Cream",
+        "brand": "Drunk Elephant",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "combination",
+            "aging"
+        ],
+        "usage": "Apply to clean, dry skin morning and night to improve skin tone, texture, and firmness.",
+        "volume": "50ml",
+        "price": 4.899,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/protini-polypeptide-cream%C2%A0-P10013694.html"
+    },
+    {
+        "id": 26,
+        "name": "DayWear SPF 15 Creme",
+        "brand": "Estée Lauder",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "combination"
+        ],
+        "usage": "Apply in the morning to clean skin to hydrate and protect against environmental damage.",
+        "volume": "50ml",
+        "price": 2.66,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/daywear-spf-15-creme-n-c-30ml-1oz-P364011.html"
+    },
+    {
+        "id": 27,
+        "name": "Bora Barrier™ Repair Cream",
+        "brand": "Drunk Elephant",
+        "category": "Moisturizer",
+        "skin_type": [
+            "dry",
+            "sensitive"
+        ],
+        "usage": "Apply as needed to clean, dry skin to strengthen and restore the skin barrier.",
+        "volume": "50ml",
+        "price": 4.879,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/bora-barrier-repair-cream---lipidler-ve-seramidler-acisindan-zengin-yuz-kremi-706154.html"
+    },
+    {
+        "id": 28,
+        "name": "Extra-Firming Day Cream",
+        "brand": "Clarins",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Apply every morning to clean face and neck to improve skin elasticity and firmness.",
+        "volume": "50ml",
+        "price": 4.798,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/extra-firming----tum-cilt-tipleri-i̇cin-yaslanma-karsiti-gunduz-kremi-P1000205762.html"
+    },
+    {
+        "id": 29,
+        "name": "White Lucent Brightening Gel Cream",
+        "brand": "Shiseido",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "combination",
+            "dull"
+        ],
+        "usage": "Apply morning and evening to clean skin to brighten and even skin tone.",
+        "volume": "50ml",
+        "price": 5.1,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/white-lucent-brightening-gel-cream-P3671001.html"
+    },
+    {
+        "id": 30,
+        "name": "Rose Face Cream",
+        "brand": "Fresh",
+        "category": "Moisturizer",
+        "skin_type": [
+            "dry",
+            "sensitive",
+            "normal"
+        ],
+        "usage": "Apply to clean skin morning and night for deep hydration and nourishment.",
+        "volume": "50ml",
+        "price": 1.419,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/rose-face-cream-P10016757.html"
+    },
+    {
+        "id": 31,
+        "name": "Bouncy & Firm Sleeping Mask",
+        "brand": "Laneige",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Apply as the last step of your nighttime routine. Leave on overnight and rinse off in the morning.",
+        "volume": "60ml",
+        "price": 2.299,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/bouncy-et-firm-sleeping-mask---dolgunlastirici-ve-sikilastirici-gece-maskesi-P1000203036.html"
+    },
+    {
+        "id": 32,
+        "name": "Hydra-Essentiel [HA²] Night Cream",
+        "brand": "Clarins",
+        "category": "Moisturizer",
+        "skin_type": [
+            "dry",
+            "combination",
+            "normal"
+        ],
+        "usage": "Apply nightly to clean skin to deeply hydrate and plump the skin.",
+        "volume": "50ml",
+        "price": 2.743,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/hydra-essentiel--ha²----susuzluk-karsiti-dolgunlastirici-gece-bakimi-P10047211.html"
+    },
+    {
+        "id": 33,
+        "name": "Ceramidin™ Moisturizing Cream",
+        "brand": "Dr.Jart+",
+        "category": "Moisturizer",
+        "skin_type": [
+            "Dry",
+            "Normal",
+            "Sensitive"
+        ],
+        "usage": "Apply an appropriate amount to the face as the last step of your skincare routine, both morning and evening. Gently massage into the skin until fully absorbed.",
+        "volume": "50ml",
+        "price": 2.689,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/ceramidin™---nemlendirici-krem-P10053763.html"
+    },
+    {
+        "id": 34,
+        "name": "The Moisturizing Fresh Cream",
+        "brand": "La Mer",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Apply to clean, dry skin morning and night to deeply hydrate and rejuvenate the skin.",
+        "volume": "30ml",
+        "price": 9.26,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/the-moisturizing-fresh-cream---nemlendirici-krem-P10057492.html"
+    },
+    {
+        "id": 35,
+        "name": "Super Hydratant Jour",
+        "brand": "Sephora Collection",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "combination"
+        ],
+        "usage": "Apply in the morning to clean skin for all-day hydration and radiance.",
+        "volume": "50ml",
+        "price": 799,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/super-hydratant-jour-P10023032.html"
+    },
+    {
+        "id": 36,
+        "name": "Hydra-Essentiel [HA²] Moisturizer",
+        "brand": "Clarins",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "dry",
+            "dehydrated"
+        ],
+        "usage": "Apply morning and evening to clean skin to deeply hydrate and plump the skin.",
+        "volume": "50ml",
+        "price": 2.743,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/hydra-essentiel--ha²----normal-ve-kuru-ciltler-i̇cin-nemlendirici-krem-657794.html"
+    },
+    {
+        "id": 37,
+        "name": "Super Restorative Rose Radiance Cream",
+        "brand": "Clarins",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Apply every morning to clean face and neck to boost radiance and firmness.",
+        "volume": "50ml",
+        "price": 6.472,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/super-restorative-rose-radiance---ton-esitleyici-pembe-yaslanma-karsiti-krem-732114.html"
+    },
+    {
+        "id": 38,
+        "name": "Revitalizing Supreme+ Night Cream",
+        "brand": "Estée Lauder",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Apply nightly to clean skin to reduce signs of aging and rejuvenate the skin.",
+        "volume": "50ml",
+        "price": 4.24,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/revitalizing-supreme--night-P10023481.html"
+    },
+    {
+        "id": 39,
+        "name": "Super Restorative Night Cream",
+        "brand": "Clarins",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "Apply every night to clean face and neck to deeply nourish and restore the skin.",
+        "volume": "50ml",
+        "price": 6.843,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/super-restorative-night-cream---gece-kremi-P10026757.html"
+    },
+    {
+        "id": 40,
+        "name": "Watermelon Glow Sleeping Mask",
+        "brand": "Glow Recipe",
+        "category": "Moisturizer",
+        "skin_type": [
+            "normal",
+            "combination",
+            "dull"
+        ],
+        "usage": "Apply as the final step of your nighttime routine. Leave on overnight and rinse off in the morning.",
+        "volume": "60ml",
+        "price": 2.689,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/watermelon-glow---aydinlatici-gece-maskesi-P10043683.html"
+    },
+    {
+        "id": 41,
+        "name": "7% Glycolic Acid Peeling Toner",
+        "brand": "The Ordinary",
+        "category": "Toner",
+        "skin_type": [
+            "oily",
+            "combination",
+            "dull"
+        ],
+        "usage": "Use once daily, preferably in the evening. Apply to face with a cotton pad after cleansing.",
+        "volume": "100ml",
+        "price": 505,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/%257-glikolik-asitli-peeling-etkili-tonik---peeling-losyonu-P3921104.html"
+    },
+    {
+        "id": 42,
+        "name": "Glow Tonic",
+        "brand": "Pixi",
+        "category": "Toner",
+        "skin_type": [
+            "normal",
+            "combination",
+            "dull"
+        ],
+        "usage": "Use AM and PM. Saturate a cotton pad and sweep across face, neck, and décolletage after cleansing.",
+        "volume": "250ml",
+        "price": 1.679,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/glow-tonic-P3417046.html"
+    },
+    {
+        "id": 43,
+        "name": "Fat Water",
+        "brand": "Fenty Skin",
+        "category": "Toner",
+        "skin_type": [
+            "all"
+        ],
+        "usage": "Use day and night on clean skin. Apply over face with fingers.",
+        "volume": "150ml",
+        "price": 2.179,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/fat-water-P10013036.html"
+    },
+    {
+        "id": 44,
+        "name": "Clarifying Lotion 1.0",
+        "brand": "Clinique",
+        "category": "Toner",
+        "skin_type": [
+            "sensitive",
+            "dry"
+        ],
+        "usage": "Use twice a day, morning and night. Apply with a cotton ball, sweeping gently over face and neck.",
+        "volume": "200ml",
+        "price": 1.235,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/clarifying-lotion-arindirici-losyon-1.0-P2730027.html"
+    },
+    {
+        "id": 45,
+        "name": "Glow Replenishing Rice Milk",
+        "brand": "Beauty of Joseon",
+        "category": "Toner",
+        "skin_type": [
+            "dry",
+            "sensitive",
+            "normal"
+        ],
+        "usage": "After cleansing, apply an appropriate amount to the face and pat gently for absorption.",
+        "volume": "150ml",
+        "price": 1.049,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/glow-replenishing-rice-milk---nemlendirici-losyon-P1000206860.html"
+    },
+    {
+        "id": 46,
+        "name": "Toning Lotion",
+        "brand": "Sephora Collection",
+        "category": "Toner",
+        "skin_type": [
+            "normal",
+            "dry"
+        ],
+        "usage": "Apply to clean skin using a cotton pad. Do not rinse.",
+        "volume": "200ml",
+        "price": 1.642,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/toning-lotion---nemlendirici-tonik-P1000202886.html"
+    },
+    {
+        "id": 47,
+        "name": "Tea Tree Spray Toner",
+        "brand": "Sephora Collection",
+        "category": "Toner",
+        "skin_type": [
+            "oily",
+            "blemish-prone"
+        ],
+        "usage": "Spray directly onto face after cleansing or throughout the day as needed.",
+        "volume": "150ml",
+        "price": 440,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/cay-agaci-ozlu-sprey-tonik-gozenek-sikilastirici-ve-arindirici-P10024850.html"
+    },
+    {
+        "id": 48,
+        "name": "Ginseng Essence Water",
+        "brand": "Beauty of Joseon",
+        "category": "Toner",
+        "skin_type": [
+            "normal",
+            "dry",
+            "aging"
+        ],
+        "usage": "After cleansing and toning, apply a small amount to face and neck. Pat gently until absorbed.",
+        "volume": "150ml",
+        "price": 1.019,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/ginseng-essence-wateretnbsp%3B--enerji-veren-ginsengli-nemlendirici-esans-P1000206815.html"
+    },
+    {
+        "id": 49,
+        "name": "Tonique Confort",
+        "brand": "Lancôme",
+        "category": "Toner",
+        "skin_type": [
+            "dry",
+            "sensitive"
+        ],
+        "usage": "Apply with a cotton pad to clean skin, morning and evening.",
+        "volume": "200ml",
+        "price": 1.85,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/tonique-confort---tonique-P10061039.html"
+    },
+    {
+        "id": 50,
+        "name": "Bright Plus Freshness Lotion",
+        "brand": "Clarins",
+        "category": "Toner",
+        "skin_type": [
+            "dull",
+            "uneven"
+        ],
+        "usage": "Apply to clean skin using a cotton pad. Use morning and evening.",
+        "volume": "200ml",
+        "price": 2.227,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/bright-plus---koyu-leke-onleyici-tazelik-losyonu-P10024965.html"
+    },
+    {
+        "id": 51,
+        "name": "Dermaclear Micro Foam Cleanser",
+        "brand": "Dr.Jart+",
+        "category": "Cleanser",
+        "skin_type": [
+            "all"
+        ],
+        "usage": "Apply a small amount to damp face and gently massage. Rinse thoroughly with lukewarm water.",
+        "volume": "120ml",
+        "price": 1.18,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/dermaclear---temizleyici-kopuk-P10058538.html"
+    },
+    {
+        "id": 52,
+        "name": "Green Plum Refreshing Cleanser",
+        "brand": "Beauty of Joseon",
+        "category": "Cleanser",
+        "skin_type": [
+            "all",
+            "sensitive",
+            "dry"
+        ],
+        "usage": "Apply a small amount to wet skin. Massage gently and rinse thoroughly with lukewarm water. Use daily.",
+        "volume": "100ml",
+        "price": 709,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/green-plum-refreshing-cleanser---dusuk-ph-li-temizleme-jeli-P1000206834.html"
+    },
+    {
+        "id": 53,
+        "name": "Liquid Facial Soap – Mild",
+        "brand": "Clinique",
+        "category": "Cleanser",
+        "skin_type": [
+            "sensitive",
+            "normal"
+        ],
+        "usage": "Lather between palms with tepid water. Massage over face and throat; rinse. Use twice a day.",
+        "volume": "200ml",
+        "price": 1.209,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/liquid-facial-soap-sivi-yuz-sabunu-hassas-ci̇lt-formulu-P28935.html"
+    },
+    {
+        "id": 54,
+        "name": "Silky Purifying Cleansing Cream",
+        "brand": "Sensai",
+        "category": "Cleanser",
+        "skin_type": [
+            "dry",
+            "normal",
+            "aging"
+        ],
+        "usage": "Apply to dry face and gently massage in circular motions. Rinse thoroughly with lukewarm water.",
+        "volume": "145ml",
+        "price": 2.76,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/sensai-silky-purifying-P10013827.html"
+    },
+    {
+        "id": 55,
+        "name": "Complete Cleansing Microfoam",
+        "brand": "Shiseido",
+        "category": "Cleanser",
+        "skin_type": [
+            "normal",
+            "combination",
+            "dull"
+        ],
+        "usage": "Dispense foam into palm and gently smooth over face. Rinse thoroughly with water.",
+        "volume": "180ml",
+        "price": 2.7,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/complete-cleansing-microfoam---temizleyici-P10059216.html"
+    },
+    {
+        "id": 56,
+        "name": "Nutritious Cleanser – Foaming",
+        "brand": "Estée Lauder",
+        "category": "Cleanser",
+        "skin_type": [
+            "normal",
+            "combination",
+            "dull"
+        ],
+        "usage": "Apply morning and night to wet skin. Massage and rinse thoroughly.",
+        "volume": "125ml",
+        "price": 1.475,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/nutritious-cleanser---kopuklu-temizleyici-P10048598.html"
+    },
+    {
+        "id": 57,
+        "name": "Ginseng Cleansing Oil",
+        "brand": "Beauty of Joseon",
+        "category": "Cleanser",
+        "skin_type": [
+            "normal",
+            "dry",
+            "sensitive"
+        ],
+        "usage": "Apply to dry face and gently massage. Add water to emulsify and rinse thoroughly.",
+        "volume": "210ml",
+        "price": 1.119,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/ginseng-cleansing-oil---ginseng-ozu-iceren-nazik-makyaj-temizleyici-P1000206836.html"
+    },
+    {
+        "id": 58,
+        "name": "Smoothing Cleanser Exfoliates & Shine Gel",
+        "brand": "Sephora Collection",
+        "category": "Cleanser",
+        "skin_type": [
+            "oily",
+            "combination"
+        ],
+        "usage": "Use daily on wet face. Massage gently and rinse thoroughly.",
+        "volume": "125ml",
+        "price": 549,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/smoothing-cleanser-exfoliates--shine-gel-P10014723.html"
+    },
+    {
+        "id": 59,
+        "name": "Oat Cleansing Balm",
+        "brand": "The Inkey List",
+        "category": "Cleanser",
+        "skin_type": [
+            "dry",
+            "sensitive"
+        ],
+        "usage": "Massage a small amount onto damp face and rinse with warm water. Suitable for daily use.",
+        "volume": "150ml",
+        "price": 939,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/oat-cleansing-balm-P3975100.html"
+    },
+    {
+        "id": 60,
+        "name": "Creamy Jelly Cleanser",
+        "brand": "BYOMA",
+        "category": "Cleanser",
+        "skin_type": [
+            "normal",
+            "combination",
+            "sensitive"
+        ],
+        "usage": "Apply to wet skin, massage gently in circular motions, and rinse thoroughly with lukewarm water.",
+        "volume": "175ml",
+        "price": 969,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/creamy-jelly-cleanser---temizleyici-P10043558.html"
+    },
+    {
+        "id": 61,
+        "name": "2% Salicylic Acid Mask",
+        "brand": "The Ordinary",
+        "category": "Mask",
+        "skin_type": [
+            "oily",
+            "blemish-prone"
+        ],
+        "usage": "Apply evenly to clean, dry skin. Leave on for 10 minutes, then rinse thoroughly with lukewarm water. Use once or twice a week.",
+        "volume": "50ml",
+        "price": 625,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/%252-salisilik-asit-maskesi-P10014050.html"
+    },
+    {
+        "id": 62,
+        "name": "Deep Purifying Mask",
+        "brand": "Sephora Collection",
+        "category": "Mask",
+        "skin_type": [
+            "combination",
+            "oily"
+        ],
+        "usage": "Apply a generous layer to clean, dry skin. Leave on for 5–10 minutes, then rinse thoroughly with water. Use 1–2 times per week.",
+        "volume": "50ml",
+        "price": 10.22,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/deep-purifying-mask-P10059776.html"
+    },
+    {
+        "id": 63,
+        "name": "All About Clean 2-in-1 Cleansing + Exfoliating Jelly",
+        "brand": "Clinique",
+        "category": "Peeling",
+        "skin_type": [
+            "all"
+        ],
+        "usage": "Use twice daily. Apply to damp skin, gently massage in circular motions, then rinse thoroughly.",
+        "volume": "100ml",
+        "price": 1.725,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/all-about-clean-P10014668.html"
+    },
+    {
+        "id": 64,
+        "name": "Cicapair™ Tiger Grass Sleepair Intensive Mask",
+        "brand": "Dr.Jart+",
+        "category": "Mask",
+        "skin_type": [
+            "sensitive",
+            "dry"
+        ],
+        "usage": "Apply as the last step of your nighttime skincare routine. Leave on overnight and rinse off in the morning.",
+        "volume": "75ml",
+        "price": 1.999,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/cicapair™---onarici-ve-yatistirici-gece-maskesi-P10056623.html"
+    },
+    {
+        "id": 65,
+        "name": "Clear Improvement™ Active Charcoal Mask",
+        "brand": "Origins",
+        "category": "Mask",
+        "skin_type": [
+            "oily",
+            "combination"
+        ],
+        "usage": "Apply to clean skin. Leave on for 10 minutes. Rinse off with warm water. Use once a week or as needed.",
+        "volume": "30ml",
+        "price": 825,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/clear-improvement™-active-charcoal-mask-to-clear-pores-P3655184.html"
+    },
+    {
+        "id": 66,
+        "name": "AHA 30% + BHA 2% Peeling Solution",
+        "brand": "The Ordinary",
+        "category": "Peeling",
+        "skin_type": [
+            "normal",
+            "oily",
+            "combination"
+        ],
+        "usage": "Apply to clean, dry skin. Leave on for no more than 10 minutes. Rinse thoroughly with lukewarm water. Use once or twice a week.",
+        "volume": "30ml",
+        "price": 425,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/aha-%2530-bha-%252-peeling-solusyonu---peeling-bakimi-502423.html"
+    },
+    {
+        "id": 67,
+        "name": "The POREfessional Deep Retreat Pore-Clearing Clay Mask",
+        "brand": "Benefit Cosmetics",
+        "category": "Mask",
+        "skin_type": [
+            "oily",
+            "combination"
+        ],
+        "usage": "Apply a thin layer to clean, dry skin. Leave on for 30 minutes or until completely dry. Rinse thoroughly with warm water.",
+        "volume": "75ml",
+        "price": 2.259,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/the-porefessional-deep-retreat---gozenek-arindirici-kil-maskesi-P10047878.html"
+    },
+    {
+        "id": 68,
+        "name": "Rose Sugar Scrub",
+        "brand": "Fresh",
+        "category": "Peeling",
+        "skin_type": [
+            "normal",
+            "dry",
+            "sensitive"
+        ],
+        "usage": "Gently massage onto damp skin and rinse with warm water. Use 3–4 times a week.",
+        "volume": "100ml",
+        "price": 1.75,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/rose-sugar-scrub-arindirici-seker-peelingi̇-P3381003.html"
+    },
+    {
+        "id": 69,
+        "name": "Exfoliating Scrub",
+        "brand": "Clinique",
+        "category": "Peeling",
+        "skin_type": [
+            "oily",
+            "combination"
+        ],
+        "usage": "Massage gently over damp skin, avoiding the eye area. Rinse thoroughly. Use 3–4 times a week.",
+        "volume": "100ml",
+        "price": 1.72,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/exfoliating-scrub-peeling-P28437.html"
+    },
+    {
+        "id": 70,
+        "name": "Cookies N Clean Whipped Clay Detox Face Mask",
+        "brand": "Fenty Skin",
+        "category": "Mask",
+        "skin_type": [
+            "all"
+        ],
+        "usage": "Apply an even layer to clean, damp skin. Leave on for 10–15 minutes. Rinse thoroughly with warm water.",
+        "volume": "100ml",
+        "price": 2.349,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/cookies-n-clean---yuz-icin-soyucu-peeling-P10057296.html"
+    },
+    {
+        "id": 71,
+        "name": "Clear Improvement™ Charcoal Honey Mask",
+        "brand": "Origins",
+        "category": "Mask",
+        "skin_type": [
+            "dry",
+            "sensitive"
+        ],
+        "usage": "Apply to clean skin. Leave on for 10–15 minutes. Rinse off with warm water. Use once a week or as needed.",
+        "volume": "75ml",
+        "price": 1.819,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/clear-improvement™---siyah-nokta-karsiti-peeling-et-mask-P1000203426.html"
+    },
+    {
+        "id": 72,
+        "name": "Foaming Face Scrub",
+        "brand": "Sephora Collection",
+        "category": "Peeling",
+        "skin_type": [
+            "normal",
+            "oily"
+        ],
+        "usage": "Apply to damp skin, gently massage in circular motions, then rinse thoroughly with water. Use 2–3 times per week.",
+        "volume": "200ml",
+        "price": 399,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/foaming-face-scrub---arindirici-peeling-P10046088.html"
+    },
+    {
+        "id": 73,
+        "name": "Skin Resurfacing Peel",
+        "brand": "Dermalogica",
+        "category": "Peeling",
+        "skin_type": [
+            "normal",
+            "aging"
+        ],
+        "usage": "Apply a thin layer to clean skin. Leave on for 10–15 minutes. Rinse thoroughly with warm water. Use once or twice a week.",
+        "volume": "75ml",
+        "price": 4.01,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/skin-resurfacing-peeling-P2767008.html"
+    },
+    {
+        "id": 74,
+        "name": "Ginseng Skin Hero Peeling",
+        "brand": "Erborian",
+        "category": "Peeling",
+        "skin_type": [
+            "dull",
+            "tired",
+            "uneven texture"
+        ],
+        "usage": "Apply to clean, dry skin. Leave on for 10 minutes, then rinse thoroughly with lukewarm water. Use once or twice a week.",
+        "volume": "50ml",
+        "price": 2.369,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/ginseng-skin-hero-peeling---arindirici-peeling-P10047995.html"
+    },
+    {
+        "id": 75,
+        "name": "Sugar Face Polish Exfoliator",
+        "brand": "Fresh",
+        "category": "Peeling",
+        "skin_type": [
+            "normal",
+            "dry"
+        ],
+        "usage": "Gently massage onto damp skin and leave for 5–10 minutes. Rinse with warm water. Use 3–4 times per week.",
+        "volume": "30ml",
+        "price": 1.599,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/sugar-face-polish-exfoliator--yuz-peelingi-P1000205068.html"
+    },
+    {
+        "id": 76,
+        "name": "Anti-Blemish Oil-Control Mask",
+        "brand": "Clinique",
+        "category": "Mask",
+        "skin_type": [
+            "oily",
+            "acne-prone"
+        ],
+        "usage": "Apply a thin layer to clean skin. Leave on for 5 minutes and rinse with warm water.",
+        "volume": "100ml",
+        "price": 1.54,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/anti-blemish-yag-kontrol-maskesi̇-P1783010.html"
+    },
+    {
+        "id": 77,
+        "name": "Beautifeye Illuminating Eye Patches",
+        "brand": "Wishful",
+        "category": "Mask",
+        "skin_type": [
+            "all"
+        ],
+        "usage": "Apply under the eyes, leave for 20–30 minutes, then remove and gently pat the remaining serum into the skin.",
+        "volume": "60ml",
+        "price": 1.379,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/beautifeye---goz-cevresi-aydinlatici-bantlar-P4047163.html"
+    },
+    {
+        "id": 78,
+        "name": "Ground Rice & Honey Glow Mask",
+        "brand": "Beauty of Joseon",
+        "category": "Mask",
+        "skin_type": [
+            "dull",
+            "dry",
+            "normal"
+        ],
+        "usage": "Apply to clean skin. Leave for 10–15 minutes, then rinse thoroughly with warm water.",
+        "volume": "150ml",
+        "price": 1.049,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/ground-rice-and-honey-glow-mask---hepsi-bir-arada-isilti-maskesi-P1000206859.html"
+    },
+    {
+        "id": 79,
+        "name": "Out of Trouble™ 10 Minute Mask",
+        "brand": "Origins",
+        "category": "Mask",
+        "skin_type": [
+            "oily",
+            "blemish-prone"
+        ],
+        "usage": "Apply to clean face. Leave on for 10 minutes, then remove with damp washcloth and rinse.",
+        "volume": "75ml",
+        "price": 1.5,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/out-of-trouble™-10-minute-mask-to-rescue-problem-skin-P3607071.html"
+    },
+    {
+        "id": 80,
+        "name": "T.L.C. Sukari Babyfacial",
+        "brand": "Drunk Elephant",
+        "category": "Peeling",
+        "skin_type": [
+            "normal",
+            "dull",
+            "uneven texture"
+        ],
+        "usage": "Use once weekly. Apply evenly to clean, dry skin. Leave on for 20 minutes, then rinse with warm water.",
+        "volume": "50ml",
+        "price": 5.799,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/t.l.c.-sukari-babyfacial-P10014007.html"
+    },
+    {
+        "id": 81,
+        "name": "Advanced Génifique Yeux Eye Cream",
+        "brand": "Lancôme",
+        "category": "Eye Care",
+        "skin_type": [
+            "all",
+            "dark circles",
+            "fine lines"
+        ],
+        "usage": "Apply a small amount to the under-eye area morning and evening. Gently pat with your ring finger until absorbed.",
+        "volume": "15ml",
+        "price": 1.8,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/advanced-genifique-yeux-goz-kremi-541786.html"
+    },
+    {
+        "id": 82,
+        "name": "Génifique Eye & Lash Concentrate",
+        "brand": "Lancôme",
+        "category": "Eye Care",
+        "skin_type": [
+            "all",
+            "dry under-eye",
+            "weak lashes"
+        ],
+        "usage": "Gently apply to cleansed eye area and lashes morning and night using the applicator.",
+        "volume": "20ml",
+        "price": 4.29,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/genifique-eye-et-lash-concentrate-582266.html"
+    },
+    {
+        "id": 83,
+        "name": "5% Caffeine Solution + EGCG",
+        "brand": "The Ordinary",
+        "category": "Eye Care",
+        "skin_type": [
+            "all",
+            "puffiness",
+            "dark circles"
+        ],
+        "usage": "Apply a small amount onto the eye contour in the morning and evening. Avoid direct contact with eyes.",
+        "volume": "30ml",
+        "price": 390,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/%255-kafein-solusyonu-egcg---goz-cevresi-502431.html"
+    },
+    {
+        "id": 84,
+        "name": "CC Eye Clair",
+        "brand": "Erborian",
+        "category": "Eye Care",
+        "skin_type": [
+            "all",
+            "dull",
+            "tired eyes"
+        ],
+        "usage": "Use in the morning. Apply by tapping gently to the under-eye area. Can be used as a concealer.",
+        "volume": "10ml",
+        "price": 1.659,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/cc-family-cc-eye-clair-10ml-P3607050.html"
+    },
+    {
+        "id": 85,
+        "name": "Revive Eye Serum Ginseng + Retinal",
+        "brand": "Beauty of Joseon",
+        "category": "Eye Care",
+        "skin_type": [
+            "all",
+            "fine lines",
+            "wrinkles",
+            "tired eyes"
+        ],
+        "usage": "Use nightly. Apply to clean under-eye area and gently pat with fingertips until fully absorbed.",
+        "volume": "30ml",
+        "price": 989,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/revive-eye-serum--ginseng-retinal---goz-cevresini-canlandirir-P1000206814.html"
+    },
+    {
+        "id": 86,
+        "name": "C-Tango Multivitamin Eye Cream",
+        "brand": "Drunk Elephant",
+        "category": "Eye Care",
+        "skin_type": [
+            "all",
+            "dull",
+            "dry under-eye"
+        ],
+        "usage": "Gently pat a pump under and around the eyes morning and evening.",
+        "volume": "15ml",
+        "price": 4.669,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/c-tango-multivitamin-eye-cream-P10013689.html"
+    },
+    {
+        "id": 87,
+        "name": "Benefiance Wrinkle Smoothing Eye Cream",
+        "brand": "Shiseido",
+        "category": "Eye Care",
+        "skin_type": [
+            "mature",
+            "wrinkles",
+            "dry under-eye"
+        ],
+        "usage": "Use morning and evening. Gently apply to eye area using ring finger.",
+        "volume": "15ml",
+        "price": 5.25,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/benefiance-wrinkle-smoothing-eye-cream---goz-cevresi-kremi-P10052392.html"
+    },
+    {
+        "id": 88,
+        "name": "Capture Totale C.E.L.L. Energy Eye Cream",
+        "brand": "Dior",
+        "category": "Eye Care",
+        "skin_type": [
+            "all",
+            "wrinkles",
+            "puffiness",
+            "dark circles"
+        ],
+        "usage": "Apply daily to eye contour area using fingertips. Gently massage in.",
+        "volume": "15ml",
+        "price": 4.88,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/capture-totale-c.e.l.l.-energy---firming-et-wrinkle-correcting-eye-cream-P3933086.html"
+    },
+    {
+        "id": 89,
+        "name": "Retinol Eye Cream",
+        "brand": "The Inkey List",
+        "category": "Eye Care",
+        "skin_type": [
+            "all",
+            "wrinkles",
+            "fine lines"
+        ],
+        "usage": "Apply a small amount to cleansed eye area in the evening. Avoid use with other retinoids.",
+        "volume": "15ml",
+        "price": 969,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/retinol-eye-cream-P3975089.html"
+    },
+    {
+        "id": 90,
+        "name": "Moisture Surge Eye",
+        "brand": "Clinique",
+        "category": "Eye Care",
+        "skin_type": [
+            "dry under-eye",
+            "sensitive"
+        ],
+        "usage": "Use morning and night. Massage gently around the eyes until fully absorbed.",
+        "volume": "15ml",
+        "price": 2.18,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/moisture-surge-eye-P3685314.html"
+    },
+    {
+        "id": 91,
+        "name": "Lip Butter Balm",
+        "brand": "Summer Fridays",
+        "category": "Lip Care",
+        "skin_type": [
+            "all",
+            "dry lips",
+            "chapped lips"
+        ],
+        "usage": "Apply to clean lips throughout the day and before bed for lasting hydration.",
+        "volume": "15g",
+        "price": 1.929,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/lip-butter-balm---nemlendirici-dudak-balmi-P10021822.html"
+    },
+    {
+        "id": 92,
+        "name": "Glaze Craze Tinted Lip Serum",
+        "brand": "Sephora Collection",
+        "category": "Lip Care",
+        "skin_type": [
+            "all",
+            "dry lips"
+        ],
+        "usage": "Apply evenly to lips. Use alone or over lipstick for a tinted glossy finish.",
+        "volume": "12gr",
+        "price": 1.379,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/glaze-craze-tinted-lip-serum---renkli-dudak-serumu-P10061780.html"
+    },
+    {
+        "id": 93,
+        "name": "Lip Sleeping Mask",
+        "brand": "LANEIGE",
+        "category": "Lip Care",
+        "skin_type": [
+            "dry lips",
+            "chapped lips"
+        ],
+        "usage": "Apply a generous layer before sleep. Leave on overnight and wipe off in the morning.",
+        "volume": "20g",
+        "price": 1.449,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/lip-sleeping-mask-P3662005.html"
+    },
+    {
+        "id": 94,
+        "name": "Honey Infused Lip Oil",
+        "brand": "Gisou",
+        "category": "Lip Care",
+        "skin_type": [
+            "dry lips",
+            "sensitive"
+        ],
+        "usage": "Apply directly to lips as needed. Can be used alone or over lipstick.",
+        "volume": "8ml",
+        "price": 1.929,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/honey-infused-lip-oil---sari-bal-P1000203716.html"
+    },
+    {
+        "id": 95,
+        "name": "Plush Puddin’ Intensive Recovery Lip Mask",
+        "brand": "Fenty Skin",
+        "category": "Lip Care",
+        "skin_type": [
+            "chapped lips",
+            "dry lips"
+        ],
+        "usage": "Apply a generous amount to clean lips before bed. No need to rinse.",
+        "volume": "15g",
+        "price": 1.329,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/plush-puddin----yogun-i̇yilestirici-dudak-maskesi-P10045500.html"
+    },
+    {
+        "id": 96,
+        "name": "Tripeptide Plumping Lip Balm",
+        "brand": "The Inkey List",
+        "category": "Lip Care",
+        "skin_type": [
+            "all",
+            "plumping"
+        ],
+        "usage": "Apply throughout the day as needed for hydration and a fuller look.",
+        "volume": "10ml",
+        "price": 719,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/tripeptide-plumping-lip-balm---dolgunlastirici-dudak-balmi-P10051687.html"
+    },
+    {
+        "id": 97,
+        "name": "Bouncy & Firm Lip Treatment",
+        "brand": "Glow Recipe",
+        "category": "Lip Care",
+        "skin_type": [
+            "dry lips",
+            "fine lines"
+        ],
+        "usage": "Use daily or as needed. Apply with clean fingers for intensive care.",
+        "volume": "12g",
+        "price": 1.569,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/bouncy-et-firm-lip-treatment---dolgunlastirici-ve-sikilastirici-dudak-bakimi-725581.html"
+    },
+    {
+        "id": 98,
+        "name": "Lip Sleeping Mask",
+        "brand": "Glow Recipe",
+        "category": "Lip Care",
+        "skin_type": [
+            "dry lips",
+            "chapped lips"
+        ],
+        "usage": "Apply before sleep and leave on overnight. Can also be used during the day as a balm.",
+        "volume": "20g",
+        "price": 1.449,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/lip-sleeping-mask---dudaklar-icin-gece-maskesi-P1000205865.html"
+    },
+    {
+        "id": 99,
+        "name": "101 Ointment Multipurpose Superbalm",
+        "brand": "Lanolips",
+        "category": "Lip Care",
+        "skin_type": [
+            "chapped lips",
+            "cracked skin"
+        ],
+        "usage": "Use as needed on lips, cuticles, elbows or any dry skin. Highly concentrated.",
+        "volume": "15g",
+        "price": 879,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/101-ointment-multipurpose-superbalm-dudak-balmi-P3147056.html"
+    },
+    {
+        "id": 100,
+        "name": "Lux Balm",
+        "brand": "SEPHORA COLLECTION",
+        "category": "Lip Care",
+        "skin_type": [
+            "all",
+            "dry lips"
+        ],
+        "usage": "Apply as needed throughout the day for instant moisture and softness.",
+        "volume": "5gr",
+        "price": 1.329,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/lux-balm---nemlendirici-dudak-balsami-P10055570.html"
+    },
+    {
+        "id": 101,
+        "name": "Ascorbyl Glucoside Solution 12% - C Vitamini Serumu",
+        "brand": "The Ordinary",
+        "category": "Serum",
+        "skin_type": [
+            "normal",
+            "sensetive",
+            "dry",
+            "combination",
+            "oily"
+        ],
+        "usage": "Apply a few drops to cleansed skin in the morning and/or evening. Use during the serum step of your skincare routine. Avoid the eye area. Follow with sunscreen if used in the morning.",
+        "volume": "30m",
+        "price": 670.0,
+        "currency": "TRY",
+        "link": "https://www.sephora.com.tr/p/%2512-askorbil-glikozit-cozeltisi---hafif-serum-P10014051.html#"
+    },
+    {
+        "id": 102,
+        "name": "Moisture Surge Active Glow Hydrating Face Serum",
+        "brand": "Clinique",
+        "category": "Serum",
+        "skin_type": [
+            "Dry",
+            "combination",
+            "oily"
+        ],
+        "usage": "Suitable for daily use. Apply after cleansing your face.",
+        "volume": "30 ml ml",
+        "price": 1990.0,
+        "currency": "TRY"
+    }
+]
